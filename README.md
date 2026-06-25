@@ -7,7 +7,9 @@
 ## 演示预览
 
 <p align="center">
-  <img src="docs/images/demo-mock.gif" alt="FinAgent-Lab Mock 运行演示" width="900" />
+  <video src="docs/images/demo-mock.mp4" autoplay loop muted playsinline width="900">
+    <img src="docs/images/demo-mock.gif" alt="FinAgent-Lab Mock 运行演示" width="900" />
+  </video>
 </p>
 
 <p align="center"><em>后端 Mock 模式：13 个 Agent 在交易大厅中协作分析 600519 贵州茅台（约 15s / 0 Token）</em></p>
@@ -87,11 +89,13 @@ cp .env.example .env          # 编辑 DEEPSEEK_API_KEY 等
 pip install tradingagents     # 多智能体分析引擎（PyPI / 本地 editable 安装均可）
 pip install -r backend/requirements.txt
 
-uvicorn backend.main:app --reload --host 127.0.0.1 --port 8000
+uvicorn backend.main:app --reload --host 127.0.0.1 --port 8001
 ```
 
-- API 文档：http://127.0.0.1:8000/docs  
-- 健康检查：http://127.0.0.1:8000/api/health  
+- API 文档：http://127.0.0.1:8001/docs  
+- 健康检查：http://127.0.0.1:8001/api/health  
+
+> 若 8001 也被占用，可换任意空闲端口，并同步修改 `frontend/vite.config.ts` 中的 `proxy.target`。
 
 也可将引擎源码置于 `agent-engine/` 后执行 `pip install -e agent-engine`（该目录已 gitignore，不随本仓库发布）。
 
@@ -103,7 +107,7 @@ npm install
 npm run dev
 ```
 
-访问 http://127.0.0.1:5173（`/api` 已代理到后端 8000 端口）。
+访问 http://127.0.0.1:5173（`/api` 已代理到后端 8001 端口）。
 
 ### 3. 体验流程
 
