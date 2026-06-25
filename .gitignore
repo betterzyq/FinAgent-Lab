@@ -39,3 +39,8 @@ Thumbs.db
 
 # Cursor chat image cache (workspace root only)
 /assets/
+
+# Local-only docs (not published to GitHub)
+docs/简历-项目经历.md
+docs/面试指南-技术栈与项目问答.md
+docs/TradingAgents_可视化前端改造方案.md
