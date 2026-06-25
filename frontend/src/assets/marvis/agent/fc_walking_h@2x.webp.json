@@ -1,0 +1,411 @@
+{
+  "frames": {
+    "fc_walking_h_00048.png": {
+      "frame": { "x": 2, "y": 2, "w": 370, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 345, "y": 207, "w": 370, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00047.png": {
+      "frame": { "x": 374, "y": 2, "w": 370, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 345, "y": 207, "w": 370, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00046.png": {
+      "frame": { "x": 2, "y": 597, "w": 370, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 345, "y": 207, "w": 370, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00045.png": {
+      "frame": { "x": 746, "y": 2, "w": 370, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 345, "y": 207, "w": 370, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00044.png": {
+      "frame": { "x": 2, "y": 969, "w": 370, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 345, "y": 207, "w": 370, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00043.png": {
+      "frame": { "x": 597, "y": 597, "w": 370, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 345, "y": 207, "w": 370, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00042.png": {
+      "frame": { "x": 1118, "y": 2, "w": 355, "h": 587 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 337, "y": 213, "w": 355, "h": 587 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00041.png": {
+      "frame": { "x": 1118, "y": 591, "w": 345, "h": 577 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 337, "y": 223, "w": 345, "h": 577 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00040.png": {
+      "frame": { "x": 2, "y": 1341, "w": 310, "h": 558 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 242, "w": 310, "h": 558 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00039.png": {
+      "frame": { "x": 562, "y": 1341, "w": 305, "h": 559 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 364, "y": 241, "w": 305, "h": 559 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00038.png": {
+      "frame": { "x": 1475, "y": 2, "w": 341, "h": 566 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 234, "w": 341, "h": 566 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00037.png": {
+      "frame": { "x": 1123, "y": 1170, "w": 359, "h": 569 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 231, "w": 359, "h": 569 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00036.png": {
+      "frame": { "x": 2, "y": 1653, "w": 366, "h": 571 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 229, "w": 366, "h": 571 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00035.png": {
+      "frame": { "x": 575, "y": 1648, "w": 371, "h": 574 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 226, "w": 371, "h": 574 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00034.png": {
+      "frame": { "x": 1151, "y": 1531, "w": 377, "h": 576 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 224, "w": 377, "h": 576 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00033.png": {
+      "frame": { "x": 1818, "y": 2, "w": 364, "h": 574 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 226, "w": 364, "h": 574 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00032.png": {
+      "frame": { "x": 1465, "y": 591, "w": 331, "h": 570 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 230, "w": 331, "h": 570 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00031.png": {
+      "frame": { "x": 1798, "y": 578, "w": 315, "h": 566 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 234, "w": 315, "h": 566 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00030.png": {
+      "frame": { "x": 1798, "y": 1146, "w": 347, "h": 567 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 233, "w": 347, "h": 567 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00029.png": {
+      "frame": { "x": 2, "y": 2021, "w": 364, "h": 569 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 231, "w": 364, "h": 569 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00028.png": {
+      "frame": { "x": 1729, "y": 1715, "w": 368, "h": 572 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 228, "w": 368, "h": 572 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00027.png": {
+      "frame": { "x": 1151, "y": 1910, "w": 377, "h": 575 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 225, "w": 377, "h": 575 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00026.png": {
+      "frame": { "x": 2184, "y": 2, "w": 365, "h": 575 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 225, "w": 365, "h": 575 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00025.png": {
+      "frame": { "x": 573, "y": 2021, "w": 333, "h": 571 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 229, "w": 333, "h": 571 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00024.png": {
+      "frame": { "x": 2147, "y": 579, "w": 315, "h": 566 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 234, "w": 315, "h": 566 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00023.png": {
+      "frame": { "x": 2147, "y": 1147, "w": 366, "h": 570 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 230, "w": 366, "h": 570 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00022.png": {
+      "frame": { "x": 2099, "y": 1719, "w": 371, "h": 573 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 227, "w": 371, "h": 573 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00021.png": {
+      "frame": { "x": 2, "y": 2387, "w": 377, "h": 576 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 224, "w": 377, "h": 576 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00020.png": {
+      "frame": { "x": 580, "y": 2356, "w": 364, "h": 574 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 226, "w": 364, "h": 574 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00019.png": {
+      "frame": { "x": 1156, "y": 2294, "w": 316, "h": 566 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 234, "w": 316, "h": 566 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00018.png": {
+      "frame": { "x": 1724, "y": 2294, "w": 348, "h": 567 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 233, "w": 348, "h": 567 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00017.png": {
+      "frame": { "x": 2551, "y": 2, "w": 365, "h": 570 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 230, "w": 365, "h": 570 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00016.png": {
+      "frame": { "x": 2515, "y": 579, "w": 371, "h": 572 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 228, "w": 371, "h": 572 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00015.png": {
+      "frame": { "x": 2515, "y": 1153, "w": 377, "h": 576 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 224, "w": 377, "h": 576 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00014.png": {
+      "frame": { "x": 2293, "y": 2294, "w": 365, "h": 575 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 225, "w": 365, "h": 575 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00013.png": {
+      "frame": { "x": 2, "y": 2766, "w": 331, "h": 571 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 229, "w": 331, "h": 571 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00012.png": {
+      "frame": { "x": 1156, "y": 2612, "w": 316, "h": 566 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 234, "w": 316, "h": 566 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00011.png": {
+      "frame": { "x": 1724, "y": 2644, "w": 347, "h": 566 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 234, "w": 347, "h": 566 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00010.png": {
+      "frame": { "x": 580, "y": 2722, "w": 363, "h": 568 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 232, "w": 363, "h": 568 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00009.png": {
+      "frame": { "x": 2292, "y": 2661, "w": 368, "h": 571 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 229, "w": 368, "h": 571 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00008.png": {
+      "frame": { "x": 2918, "y": 2, "w": 376, "h": 574 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 226, "w": 376, "h": 574 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00007.png": {
+      "frame": { "x": 2894, "y": 578, "w": 377, "h": 576 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 365, "y": 224, "w": 377, "h": 576 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00006.png": {
+      "frame": { "x": 2894, "y": 1156, "w": 357, "h": 575 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 368, "y": 225, "w": 357, "h": 575 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00005.png": {
+      "frame": { "x": 2870, "y": 1733, "w": 304, "h": 572 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 376, "y": 228, "w": 304, "h": 572 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00004.png": {
+      "frame": { "x": 2870, "y": 2307, "w": 300, "h": 568 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 385, "y": 232, "w": 300, "h": 568 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00003.png": {
+      "frame": { "x": 2, "y": 3099, "w": 302, "h": 573 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 385, "y": 227, "w": 302, "h": 573 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00002.png": {
+      "frame": { "x": 1150, "y": 3031, "w": 351, "h": 582 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 337, "y": 218, "w": 351, "h": 582 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00001.png": {
+      "frame": { "x": 1734, "y": 3031, "w": 362, "h": 590 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 339, "y": 210, "w": 362, "h": 590 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "fc_walking_h_00000.png": {
+      "frame": { "x": 2326, "y": 3031, "w": 370, "h": 594 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 345, "y": 206, "w": 370, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    }
+  },
+  "animations": {
+    "fc_walking_h": [
+      "fc_walking_h_00000.png",
+      "fc_walking_h_00001.png",
+      "fc_walking_h_00002.png",
+      "fc_walking_h_00003.png",
+      "fc_walking_h_00004.png",
+      "fc_walking_h_00005.png",
+      "fc_walking_h_00006.png",
+      "fc_walking_h_00007.png",
+      "fc_walking_h_00008.png",
+      "fc_walking_h_00009.png",
+      "fc_walking_h_00010.png",
+      "fc_walking_h_00011.png",
+      "fc_walking_h_00012.png",
+      "fc_walking_h_00013.png",
+      "fc_walking_h_00014.png",
+      "fc_walking_h_00015.png",
+      "fc_walking_h_00016.png",
+      "fc_walking_h_00017.png",
+      "fc_walking_h_00018.png",
+      "fc_walking_h_00019.png",
+      "fc_walking_h_00020.png",
+      "fc_walking_h_00021.png",
+      "fc_walking_h_00022.png",
+      "fc_walking_h_00023.png",
+      "fc_walking_h_00024.png",
+      "fc_walking_h_00025.png",
+      "fc_walking_h_00026.png",
+      "fc_walking_h_00027.png",
+      "fc_walking_h_00028.png",
+      "fc_walking_h_00029.png",
+      "fc_walking_h_00030.png",
+      "fc_walking_h_00031.png",
+      "fc_walking_h_00032.png",
+      "fc_walking_h_00033.png",
+      "fc_walking_h_00034.png",
+      "fc_walking_h_00035.png",
+      "fc_walking_h_00036.png",
+      "fc_walking_h_00037.png",
+      "fc_walking_h_00038.png",
+      "fc_walking_h_00039.png",
+      "fc_walking_h_00040.png",
+      "fc_walking_h_00041.png",
+      "fc_walking_h_00042.png",
+      "fc_walking_h_00043.png",
+      "fc_walking_h_00044.png",
+      "fc_walking_h_00045.png",
+      "fc_walking_h_00046.png",
+      "fc_walking_h_00047.png",
+      "fc_walking_h_00048.png"
+    ]
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "../../placeholder@2x.png",
+    "format": "RGBA8888",
+    "size": { "w": 4096, "h": 4096 },
+    "scale": 2,
+    "related_multi_packs": [],
+    "realImage": "fc_walking_h@2x.webp",
+    "placeholderApplied": true
+  }
+}

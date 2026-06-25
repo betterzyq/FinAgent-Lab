@@ -1,0 +1,68 @@
+:root {
+  color-scheme: dark;
+  font-family:
+    'Segoe UI', Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  --bg: #060b14;
+  --panel: rgba(15, 23, 42, 0.72);
+  --border: rgba(56, 189, 248, 0.18);
+  --text: #e2e8f0;
+  --muted: #64748b;
+  --bull: #ef4444;
+  --bear: #22c55e;
+  --accent: #38bdf8;
+  --pm: #c084fc;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#app {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+}
+
+body {
+  min-width: 320px;
+  overflow: hidden;
+  background:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(37, 99, 235, 0.18), transparent),
+    radial-gradient(ellipse 60% 40% at 100% 100%, rgba(192, 132, 252, 0.08), transparent),
+    var(--bg);
+}
+
+.glass {
+  background: var(--panel);
+  backdrop-filter: blur(12px);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.35);
+  border-radius: 999px;
+}
+
+input,
+select,
+button {
+  font-family: inherit;
+}
+
+pre {
+  font-family: Consolas, 'Courier New', monospace;
+}

@@ -1,0 +1,627 @@
+{
+  "frames": {
+    "talking_on_stand_00085.png": {
+      "frame": { "x": 2, "y": 2, "w": 339, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00084.png": {
+      "frame": { "x": 343, "y": 2, "w": 339, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00083.png": {
+      "frame": { "x": 2, "y": 597, "w": 339, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00082.png": {
+      "frame": { "x": 684, "y": 2, "w": 339, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00081.png": {
+      "frame": { "x": 2, "y": 938, "w": 339, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00080.png": {
+      "frame": { "x": 597, "y": 597, "w": 339, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00079.png": {
+      "frame": { "x": 1025, "y": 2, "w": 339, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00078.png": {
+      "frame": { "x": 938, "y": 597, "w": 339, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00077.png": {
+      "frame": { "x": 2, "y": 1279, "w": 339, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00076.png": {
+      "frame": { "x": 597, "y": 1192, "w": 339, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00075.png": {
+      "frame": { "x": 1366, "y": 2, "w": 339, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00074.png": {
+      "frame": { "x": 1279, "y": 597, "w": 339, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00073.png": {
+      "frame": { "x": 2, "y": 1620, "w": 339, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00072.png": {
+      "frame": { "x": 597, "y": 1533, "w": 339, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00071.png": {
+      "frame": { "x": 1192, "y": 1192, "w": 339, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00070.png": {
+      "frame": { "x": 1707, "y": 2, "w": 339, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00069.png": {
+      "frame": { "x": 1620, "y": 597, "w": 339, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00068.png": {
+      "frame": { "x": 1533, "y": 1192, "w": 339, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00067.png": {
+      "frame": { "x": 2, "y": 1961, "w": 339, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00066.png": {
+      "frame": { "x": 597, "y": 1874, "w": 339, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00065.png": {
+      "frame": { "x": 1192, "y": 1787, "w": 339, "h": 594 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00064.png": {
+      "frame": { "x": 2048, "y": 2, "w": 339, "h": 594 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00063.png": {
+      "frame": { "x": 1788, "y": 1787, "w": 339, "h": 594 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00062.png": {
+      "frame": { "x": 1961, "y": 598, "w": 339, "h": 594 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00061.png": {
+      "frame": { "x": 2, "y": 2302, "w": 339, "h": 594 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00060.png": {
+      "frame": { "x": 598, "y": 2215, "w": 339, "h": 594 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00059.png": {
+      "frame": { "x": 1194, "y": 2128, "w": 339, "h": 594 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00058.png": {
+      "frame": { "x": 1790, "y": 2128, "w": 339, "h": 594 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00057.png": {
+      "frame": { "x": 2389, "y": 2, "w": 339, "h": 594 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00056.png": {
+      "frame": { "x": 2386, "y": 598, "w": 339, "h": 594 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00055.png": {
+      "frame": { "x": 2386, "y": 1194, "w": 339, "h": 594 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00054.png": {
+      "frame": { "x": 2386, "y": 1790, "w": 339, "h": 594 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00053.png": {
+      "frame": { "x": 2, "y": 2643, "w": 339, "h": 594 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00052.png": {
+      "frame": { "x": 2386, "y": 2386, "w": 339, "h": 594 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00051.png": {
+      "frame": { "x": 598, "y": 2556, "w": 339, "h": 594 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00050.png": {
+      "frame": { "x": 1194, "y": 2469, "w": 339, "h": 594 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00049.png": {
+      "frame": { "x": 1790, "y": 2469, "w": 339, "h": 594 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00048.png": {
+      "frame": { "x": 2730, "y": 2, "w": 339, "h": 594 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00047.png": {
+      "frame": { "x": 2727, "y": 598, "w": 339, "h": 594 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00046.png": {
+      "frame": { "x": 2727, "y": 1194, "w": 339, "h": 594 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00045.png": {
+      "frame": { "x": 2727, "y": 1790, "w": 339, "h": 594 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00044.png": {
+      "frame": { "x": 2727, "y": 2386, "w": 339, "h": 594 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00043.png": {
+      "frame": { "x": 2, "y": 2984, "w": 339, "h": 594 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00042.png": {
+      "frame": { "x": 598, "y": 2982, "w": 339, "h": 594 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00041.png": {
+      "frame": { "x": 1194, "y": 2982, "w": 339, "h": 594 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00040.png": {
+      "frame": { "x": 1790, "y": 2810, "w": 339, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00039.png": {
+      "frame": { "x": 2385, "y": 2982, "w": 339, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00038.png": {
+      "frame": { "x": 3071, "y": 2, "w": 339, "h": 594 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00037.png": {
+      "frame": { "x": 3068, "y": 598, "w": 339, "h": 594 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00036.png": {
+      "frame": { "x": 3068, "y": 1194, "w": 339, "h": 594 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00035.png": {
+      "frame": { "x": 3068, "y": 1790, "w": 339, "h": 594 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00034.png": {
+      "frame": { "x": 3068, "y": 2386, "w": 339, "h": 594 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00033.png": {
+      "frame": { "x": 2, "y": 3325, "w": 339, "h": 594 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00032.png": {
+      "frame": { "x": 1790, "y": 3151, "w": 339, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00031.png": {
+      "frame": { "x": 598, "y": 3323, "w": 339, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00030.png": {
+      "frame": { "x": 2385, "y": 3323, "w": 339, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00029.png": {
+      "frame": { "x": 1193, "y": 3323, "w": 339, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00028.png": {
+      "frame": { "x": 2980, "y": 2982, "w": 342, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 359, "y": 207, "w": 342, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00027.png": {
+      "frame": { "x": 3412, "y": 2, "w": 342, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 359, "y": 207, "w": 342, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00026.png": {
+      "frame": { "x": 3412, "y": 597, "w": 342, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 359, "y": 207, "w": 342, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00025.png": {
+      "frame": { "x": 3409, "y": 1192, "w": 342, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 359, "y": 207, "w": 342, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00024.png": {
+      "frame": { "x": 3409, "y": 1787, "w": 342, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 359, "y": 207, "w": 342, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00023.png": {
+      "frame": { "x": 3409, "y": 2382, "w": 342, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 359, "y": 207, "w": 342, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00022.png": {
+      "frame": { "x": 3409, "y": 2977, "w": 342, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 359, "y": 207, "w": 342, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00021.png": {
+      "frame": { "x": 2, "y": 3666, "w": 342, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 359, "y": 207, "w": 342, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00020.png": {
+      "frame": { "x": 597, "y": 3666, "w": 342, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 359, "y": 207, "w": 342, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00019.png": {
+      "frame": { "x": 1788, "y": 3492, "w": 342, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 359, "y": 207, "w": 342, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00018.png": {
+      "frame": { "x": 1192, "y": 3664, "w": 342, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 359, "y": 207, "w": 342, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00017.png": {
+      "frame": { "x": 2383, "y": 3664, "w": 342, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 359, "y": 207, "w": 342, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00016.png": {
+      "frame": { "x": 2978, "y": 3664, "w": 342, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 359, "y": 207, "w": 342, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00008.png": {
+      "frame": { "x": 3756, "y": 2, "w": 340, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 361, "y": 207, "w": 340, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00007.png": {
+      "frame": { "x": 3756, "y": 597, "w": 339, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00006.png": {
+      "frame": { "x": 3753, "y": 1192, "w": 339, "h": 594 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00005.png": {
+      "frame": { "x": 3753, "y": 1788, "w": 339, "h": 594 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00004.png": {
+      "frame": { "x": 3753, "y": 2384, "w": 339, "h": 594 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00003.png": {
+      "frame": { "x": 3753, "y": 2980, "w": 339, "h": 595 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 205, "w": 339, "h": 595 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    }
+  },
+  "animations": {
+    "talking_on_stand": [
+      "talking_on_stand_00003.png",
+      "talking_on_stand_00004.png",
+      "talking_on_stand_00005.png",
+      "talking_on_stand_00006.png",
+      "talking_on_stand_00007.png",
+      "talking_on_stand_00008.png",
+      "talking_on_stand_00016.png",
+      "talking_on_stand_00017.png",
+      "talking_on_stand_00018.png",
+      "talking_on_stand_00019.png",
+      "talking_on_stand_00020.png",
+      "talking_on_stand_00021.png",
+      "talking_on_stand_00022.png",
+      "talking_on_stand_00023.png",
+      "talking_on_stand_00024.png",
+      "talking_on_stand_00025.png",
+      "talking_on_stand_00026.png",
+      "talking_on_stand_00027.png",
+      "talking_on_stand_00028.png",
+      "talking_on_stand_00029.png",
+      "talking_on_stand_00030.png",
+      "talking_on_stand_00031.png",
+      "talking_on_stand_00032.png",
+      "talking_on_stand_00033.png",
+      "talking_on_stand_00034.png",
+      "talking_on_stand_00035.png",
+      "talking_on_stand_00036.png",
+      "talking_on_stand_00037.png",
+      "talking_on_stand_00038.png",
+      "talking_on_stand_00039.png",
+      "talking_on_stand_00040.png",
+      "talking_on_stand_00041.png",
+      "talking_on_stand_00042.png",
+      "talking_on_stand_00043.png",
+      "talking_on_stand_00044.png",
+      "talking_on_stand_00045.png",
+      "talking_on_stand_00046.png",
+      "talking_on_stand_00047.png",
+      "talking_on_stand_00048.png",
+      "talking_on_stand_00049.png",
+      "talking_on_stand_00050.png",
+      "talking_on_stand_00051.png",
+      "talking_on_stand_00052.png",
+      "talking_on_stand_00053.png",
+      "talking_on_stand_00054.png",
+      "talking_on_stand_00055.png",
+      "talking_on_stand_00056.png",
+      "talking_on_stand_00057.png",
+      "talking_on_stand_00058.png",
+      "talking_on_stand_00059.png",
+      "talking_on_stand_00060.png",
+      "talking_on_stand_00061.png",
+      "talking_on_stand_00062.png",
+      "talking_on_stand_00063.png",
+      "talking_on_stand_00064.png",
+      "talking_on_stand_00065.png",
+      "talking_on_stand_00066.png",
+      "talking_on_stand_00067.png",
+      "talking_on_stand_00068.png",
+      "talking_on_stand_00069.png",
+      "talking_on_stand_00070.png",
+      "talking_on_stand_00071.png",
+      "talking_on_stand_00072.png",
+      "talking_on_stand_00073.png",
+      "talking_on_stand_00074.png",
+      "talking_on_stand_00075.png",
+      "talking_on_stand_00076.png",
+      "talking_on_stand_00077.png",
+      "talking_on_stand_00078.png",
+      "talking_on_stand_00079.png",
+      "talking_on_stand_00080.png",
+      "talking_on_stand_00081.png",
+      "talking_on_stand_00082.png",
+      "talking_on_stand_00083.png",
+      "talking_on_stand_00084.png",
+      "talking_on_stand_00085.png"
+    ]
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "../../placeholder@2x.png",
+    "format": "RGBA8888",
+    "size": { "w": 4096, "h": 4096 },
+    "scale": 2,
+    "related_multi_packs": ["talking_on_stand-1@2x.webp.json"],
+    "realImage": "talking_on_stand-0@2x.webp",
+    "placeholderApplied": true
+  }
+}

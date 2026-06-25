@@ -1,0 +1,99 @@
+{
+  "frames": {
+    "talking_on_stand_00015.png": {
+      "frame": { "x": 2, "y": 2, "w": 342, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 359, "y": 207, "w": 342, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00014.png": {
+      "frame": { "x": 346, "y": 2, "w": 342, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 359, "y": 207, "w": 342, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00013.png": {
+      "frame": { "x": 2, "y": 597, "w": 342, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 359, "y": 207, "w": 342, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00012.png": {
+      "frame": { "x": 690, "y": 2, "w": 342, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 359, "y": 207, "w": 342, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00011.png": {
+      "frame": { "x": 2, "y": 941, "w": 342, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 359, "y": 207, "w": 342, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00010.png": {
+      "frame": { "x": 597, "y": 597, "w": 342, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 359, "y": 207, "w": 342, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00009.png": {
+      "frame": { "x": 1034, "y": 2, "w": 342, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 359, "y": 207, "w": 342, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00002.png": {
+      "frame": { "x": 941, "y": 597, "w": 339, "h": 594 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00001.png": {
+      "frame": { "x": 2, "y": 1285, "w": 339, "h": 594 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 206, "w": 339, "h": 594 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    },
+    "talking_on_stand_00000.png": {
+      "frame": { "x": 598, "y": 1193, "w": 339, "h": 593 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 362, "y": 207, "w": 339, "h": 593 },
+      "sourceSize": { "w": 1067, "h": 800 }
+    }
+  },
+  "animations": {
+    "talking_on_stand": [
+      "talking_on_stand_00000.png",
+      "talking_on_stand_00001.png",
+      "talking_on_stand_00002.png",
+      "talking_on_stand_00009.png",
+      "talking_on_stand_00010.png",
+      "talking_on_stand_00011.png",
+      "talking_on_stand_00012.png",
+      "talking_on_stand_00013.png",
+      "talking_on_stand_00014.png",
+      "talking_on_stand_00015.png"
+    ]
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "../../placeholder@2x.png",
+    "format": "RGBA8888",
+    "size": { "w": 4096, "h": 4096 },
+    "scale": 2,
+    "related_multi_packs": null,
+    "realImage": "talking_on_stand-1@2x.webp",
+    "placeholderApplied": true
+  }
+}

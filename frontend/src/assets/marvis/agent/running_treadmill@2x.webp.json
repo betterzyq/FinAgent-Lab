@@ -1,0 +1,379 @@
+{
+  "frames": {
+    "running_treadmill_00044.png": {
+      "frame": { "x": 2, "y": 2, "w": 351, "h": 547 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 67, "y": 175, "w": 351, "h": 547 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00043.png": {
+      "frame": { "x": 355, "y": 2, "w": 357, "h": 550 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 67, "y": 172, "w": 357, "h": 550 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00042.png": {
+      "frame": { "x": 2, "y": 554, "w": 362, "h": 553 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 67, "y": 169, "w": 362, "h": 553 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00041.png": {
+      "frame": { "x": 714, "y": 2, "w": 362, "h": 553 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 67, "y": 169, "w": 362, "h": 553 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00040.png": {
+      "frame": { "x": 2, "y": 918, "w": 349, "h": 551 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 67, "y": 171, "w": 349, "h": 551 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00039.png": {
+      "frame": { "x": 557, "y": 557, "w": 303, "h": 543 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 67, "y": 179, "w": 303, "h": 543 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00038.png": {
+      "frame": { "x": 1078, "y": 2, "w": 303, "h": 543 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 67, "y": 179, "w": 303, "h": 543 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00037.png": {
+      "frame": { "x": 862, "y": 557, "w": 334, "h": 544 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 67, "y": 178, "w": 334, "h": 544 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00036.png": {
+      "frame": { "x": 2, "y": 1269, "w": 350, "h": 547 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 67, "y": 175, "w": 350, "h": 547 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00035.png": {
+      "frame": { "x": 555, "y": 1103, "w": 356, "h": 549 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 67, "y": 173, "w": 356, "h": 549 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00034.png": {
+      "frame": { "x": 1383, "y": 2, "w": 356, "h": 549 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 67, "y": 173, "w": 356, "h": 549 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00033.png": {
+      "frame": { "x": 1106, "y": 1103, "w": 362, "h": 553 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 67, "y": 169, "w": 362, "h": 553 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00032.png": {
+      "frame": { "x": 2, "y": 1621, "w": 351, "h": 552 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 67, "y": 170, "w": 351, "h": 552 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00031.png": {
+      "frame": { "x": 556, "y": 1467, "w": 351, "h": 552 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 67, "y": 170, "w": 351, "h": 552 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00030.png": {
+      "frame": { "x": 1198, "y": 553, "w": 319, "h": 548 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 67, "y": 174, "w": 319, "h": 548 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00029.png": {
+      "frame": { "x": 1110, "y": 1467, "w": 303, "h": 544 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 67, "y": 178, "w": 303, "h": 544 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00028.png": {
+      "frame": { "x": 1741, "y": 2, "w": 303, "h": 544 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 67, "y": 178, "w": 303, "h": 544 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00027.png": {
+      "frame": { "x": 1519, "y": 553, "w": 334, "h": 544 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 67, "y": 178, "w": 334, "h": 544 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00026.png": {
+      "frame": { "x": 1661, "y": 1099, "w": 349, "h": 546 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 67, "y": 176, "w": 349, "h": 546 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00025.png": {
+      "frame": { "x": 2, "y": 1974, "w": 349, "h": 546 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 67, "y": 176, "w": 349, "h": 546 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00024.png": {
+      "frame": { "x": 556, "y": 1820, "w": 472, "h": 621 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 179, "w": 472, "h": 621 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00023.png": {
+      "frame": { "x": 1179, "y": 1772, "w": 481, "h": 617 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 15, "y": 183, "w": 481, "h": 617 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00022.png": {
+      "frame": { "x": 2046, "y": 2, "w": 475, "h": 611 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 41, "y": 189, "w": 475, "h": 611 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00021.png": {
+      "frame": { "x": 1855, "y": 615, "w": 478, "h": 606 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 63, "y": 194, "w": 478, "h": 606 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00020.png": {
+      "frame": { "x": 2012, "y": 1095, "w": 502, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 83, "y": 207, "w": 502, "h": 593 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00019.png": {
+      "frame": { "x": 1798, "y": 1690, "w": 483, "h": 578 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 109, "y": 222, "w": 483, "h": 578 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00018.png": {
+      "frame": { "x": 2, "y": 2325, "w": 442, "h": 557 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 145, "y": 243, "w": 442, "h": 557 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00017.png": {
+      "frame": { "x": 561, "y": 2294, "w": 429, "h": 539 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 186, "y": 261, "w": 429, "h": 539 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00016.png": {
+      "frame": { "x": 1179, "y": 2255, "w": 363, "h": 528 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 271, "y": 272, "w": 363, "h": 528 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00015.png": {
+      "frame": { "x": 1709, "y": 2270, "w": 372, "h": 524 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 294, "y": 276, "w": 372, "h": 524 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00014.png": {
+      "frame": { "x": 2523, "y": 2, "w": 379, "h": 524 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 315, "y": 276, "w": 379, "h": 524 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00013.png": {
+      "frame": { "x": 2523, "y": 528, "w": 364, "h": 535 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 330, "y": 265, "w": 364, "h": 535 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00012.png": {
+      "frame": { "x": 2516, "y": 1065, "w": 344, "h": 549 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 351, "y": 251, "w": 344, "h": 549 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00011.png": {
+      "frame": { "x": 2283, "y": 1690, "w": 308, "h": 580 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 409, "y": 220, "w": 308, "h": 580 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00010.png": {
+      "frame": { "x": 2283, "y": 2000, "w": 290, "h": 581 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 429, "y": 219, "w": 290, "h": 581 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00009.png": {
+      "frame": { "x": 2235, "y": 2292, "w": 285, "h": 580 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 447, "y": 220, "w": 285, "h": 580 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00008.png": {
+      "frame": { "x": 2, "y": 2769, "w": 282, "h": 580 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 465, "y": 220, "w": 282, "h": 580 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00007.png": {
+      "frame": { "x": 1102, "y": 2620, "w": 280, "h": 584 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 474, "y": 216, "w": 280, "h": 584 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00006.png": {
+      "frame": { "x": 2235, "y": 2579, "w": 279, "h": 589 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 491, "y": 211, "w": 279, "h": 589 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00005.png": {
+      "frame": { "x": 2904, "y": 2, "w": 276, "h": 593 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 507, "y": 207, "w": 276, "h": 593 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00004.png": {
+      "frame": { "x": 2889, "y": 597, "w": 285, "h": 595 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 516, "y": 205, "w": 285, "h": 595 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00003.png": {
+      "frame": { "x": 2866, "y": 1194, "w": 296, "h": 596 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 510, "y": 204, "w": 296, "h": 596 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00002.png": {
+      "frame": { "x": 2866, "y": 1792, "w": 311, "h": 596 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 502, "y": 204, "w": 311, "h": 596 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00001.png": {
+      "frame": { "x": 2826, "y": 2390, "w": 327, "h": 596 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 493, "y": 204, "w": 327, "h": 596 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    },
+    "running_treadmill_00000.png": {
+      "frame": { "x": 2, "y": 3053, "w": 340, "h": 596 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 485, "y": 204, "w": 340, "h": 596 },
+      "sourceSize": { "w": 1334, "h": 800 }
+    }
+  },
+  "animations": {
+    "running_treadmill": [
+      "running_treadmill_00000.png",
+      "running_treadmill_00001.png",
+      "running_treadmill_00002.png",
+      "running_treadmill_00003.png",
+      "running_treadmill_00004.png",
+      "running_treadmill_00005.png",
+      "running_treadmill_00006.png",
+      "running_treadmill_00007.png",
+      "running_treadmill_00008.png",
+      "running_treadmill_00009.png",
+      "running_treadmill_00010.png",
+      "running_treadmill_00011.png",
+      "running_treadmill_00012.png",
+      "running_treadmill_00013.png",
+      "running_treadmill_00014.png",
+      "running_treadmill_00015.png",
+      "running_treadmill_00016.png",
+      "running_treadmill_00017.png",
+      "running_treadmill_00018.png",
+      "running_treadmill_00019.png",
+      "running_treadmill_00020.png",
+      "running_treadmill_00021.png",
+      "running_treadmill_00022.png",
+      "running_treadmill_00023.png",
+      "running_treadmill_00024.png",
+      "running_treadmill_00025.png",
+      "running_treadmill_00026.png",
+      "running_treadmill_00027.png",
+      "running_treadmill_00028.png",
+      "running_treadmill_00029.png",
+      "running_treadmill_00030.png",
+      "running_treadmill_00031.png",
+      "running_treadmill_00032.png",
+      "running_treadmill_00033.png",
+      "running_treadmill_00034.png",
+      "running_treadmill_00035.png",
+      "running_treadmill_00036.png",
+      "running_treadmill_00037.png",
+      "running_treadmill_00038.png",
+      "running_treadmill_00039.png",
+      "running_treadmill_00040.png",
+      "running_treadmill_00041.png",
+      "running_treadmill_00042.png",
+      "running_treadmill_00043.png",
+      "running_treadmill_00044.png"
+    ]
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "../../placeholder@2x.png",
+    "format": "RGBA8888",
+    "size": { "w": 4096, "h": 4096 },
+    "scale": 2,
+    "related_multi_packs": [],
+    "realImage": "running_treadmill@2x.webp",
+    "placeholderApplied": true
+  }
+}

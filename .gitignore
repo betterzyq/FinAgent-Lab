@@ -1,0 +1,41 @@
+# Local agent engine (install via pip or place source here — not shipped in this repo)
+TradingAgents/
+agent-engine/
+marvis-office/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.npm-cache/
+*.tsbuildinfo
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs & caches
+*.log
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Cursor chat image cache (workspace root only)
+/assets/
