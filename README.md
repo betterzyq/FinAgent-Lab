@@ -7,9 +7,7 @@
 ## 演示预览
 
 <p align="center">
-  <video src="docs/images/demo-mock.mp4" autoplay loop muted playsinline width="900">
-    <img src="docs/images/demo-mock.gif" alt="FinAgent-Lab Mock 运行演示" width="900" />
-  </video>
+  <img src="docs/images/demo-mock.gif" alt="FinAgent-Lab Mock 运行演示" width="900" />
 </p>
 
 <p align="center"><em>后端 Mock 模式：13 个 Agent 在交易大厅中协作分析 600519 贵州茅台（约 15s / 0 Token）</em></p>
